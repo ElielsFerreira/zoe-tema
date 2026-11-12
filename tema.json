@@ -1,0 +1,7 @@
+{
+  "version": "1.2.15",
+  "package": "https://raw.githubusercontent.com/ElielsFerreira/zoe-tema/main/zoe-church.zip",
+  "url": "https://zoechurchfrg.com.br",
+  "requires": "6.1",
+  "requires_php": "7.4"
+}
