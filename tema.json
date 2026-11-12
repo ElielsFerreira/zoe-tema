@@ -1,6 +1,6 @@
 {
-  "version": "1.2.23",
-  "package": "https://raw.githubusercontent.com/ElielsFerreira/zoe-tema/main/zoe-church-1.2.23.zip",
+  "version": "1.2.24",
+  "package": "https://raw.githubusercontent.com/ElielsFerreira/zoe-tema/main/zoe-church-1.2.24.zip",
   "url": "https://zoechurchfrg.com.br",
   "requires": "6.1",
   "requires_php": "7.4"
